@@ -11,7 +11,7 @@ const Home = () => {
             <div className='page-wrapper'>
                 <Header />
                 <main>
-                    <h2>Hello from UP Boutique!</h2>
+                    <h2>Hello there, from UP Boutique!</h2>
                 </main>
                 <Footer />
             </div>
